@@ -1,0 +1,30 @@
+C:\Users\Administrator\Desktop\LAB 1 pro\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Administrator\Desktop\LAB 1 pro\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Administrator\Desktop\LAB 1 pro\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Administrator\Desktop\LAB 1 pro\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\LAB 1 pro\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Administrator\Desktop\LAB 1 pro\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\LAB 1 pro\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\LAB 1 pro\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\LAB 1 pro\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Administrator\Desktop\LAB 1 pro\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Administrator\Desktop\LAB 1 pro\password checker\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Administrator\Desktop\LAB 1 pro\password checker\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Administrator\Desktop\LAB 1 pro\password checker\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Administrator\Desktop\LAB 1 pro\password checker\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\LAB 1 pro\password checker\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Administrator\Desktop\LAB 1 pro\password checker\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\LAB 1 pro\password checker\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\LAB 1 pro\password checker\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\LAB 1 pro\password checker\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Administrator\Desktop\LAB 1 pro\password checker\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\done tasks\password checker\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\done tasks\password checker\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\done tasks\password checker\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\done tasks\password checker\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\done tasks\password checker\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\done tasks\password checker\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\done tasks\password checker\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\done tasks\password checker\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\done tasks\password checker\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\done tasks\password checker\obj\Debug\WindowsFormsApp2.pdb
