@@ -1,0 +1,30 @@
+C:\Users\Administrator\Desktop\LAB 1 pro\profit calculator\bin\Debug\profit calculator.exe.config
+C:\Users\Administrator\Desktop\LAB 1 pro\profit calculator\bin\Debug\profit calculator.exe
+C:\Users\Administrator\Desktop\LAB 1 pro\profit calculator\bin\Debug\profit calculator.pdb
+C:\Users\Administrator\Desktop\LAB 1 pro\profit calculator\obj\Debug\profit calculator.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\LAB 1 pro\profit calculator\obj\Debug\profit_calculator.Form1.resources
+C:\Users\Administrator\Desktop\LAB 1 pro\profit calculator\obj\Debug\profit_calculator.Properties.Resources.resources
+C:\Users\Administrator\Desktop\LAB 1 pro\profit calculator\obj\Debug\profit calculator.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\LAB 1 pro\profit calculator\obj\Debug\profit calculator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\LAB 1 pro\profit calculator\obj\Debug\profit calculator.exe
+C:\Users\Administrator\Desktop\LAB 1 pro\profit calculator\obj\Debug\profit calculator.pdb
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\LAB 1 pro\profit calculator\obj\Debug\profit calculator.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\LAB 1 pro\profit calculator\obj\Debug\profit_calculator.Form1.resources
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\LAB 1 pro\profit calculator\obj\Debug\profit_calculator.Properties.Resources.resources
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\LAB 1 pro\profit calculator\obj\Debug\profit calculator.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\LAB 1 pro\profit calculator\obj\Debug\profit calculator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\LAB 1 pro\profit calculator\obj\Debug\profit calculator.exe
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\LAB 1 pro\profit calculator\obj\Debug\profit calculator.pdb
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\LAB 1 pro\profit calculator\bin\Debug\profit calculator.exe.config
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\LAB 1 pro\profit calculator\bin\Debug\profit calculator.exe
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\LAB 1 pro\profit calculator\bin\Debug\profit calculator.pdb
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\done tasks\profit calculator\bin\Debug\profit calculator.exe.config
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\done tasks\profit calculator\bin\Debug\profit calculator.exe
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\done tasks\profit calculator\bin\Debug\profit calculator.pdb
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\done tasks\profit calculator\obj\Debug\profit calculator.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\done tasks\profit calculator\obj\Debug\profit_calculator.Form1.resources
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\done tasks\profit calculator\obj\Debug\profit_calculator.Properties.Resources.resources
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\done tasks\profit calculator\obj\Debug\profit calculator.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\done tasks\profit calculator\obj\Debug\profit calculator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\done tasks\profit calculator\obj\Debug\profit calculator.exe
+C:\Users\Administrator\Desktop\UNI LIFE\OOP\done tasks\profit calculator\obj\Debug\profit calculator.pdb
